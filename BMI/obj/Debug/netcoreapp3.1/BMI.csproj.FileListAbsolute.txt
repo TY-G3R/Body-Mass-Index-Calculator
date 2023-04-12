@@ -1,0 +1,15 @@
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.exe
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.deps.json
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.json
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.runtimeconfig.dev.json
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.dll
+E:\Capstone\BMI\bin\Debug\netcoreapp3.1\BMI.pdb
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.AssemblyReference.cache
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.BMI_Calculator.resources
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.GenerateResource.cache
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfoInputs.cache
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.AssemblyInfo.cs
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.csproj.CoreCompileInputs.cache
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.dll
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.pdb
+E:\Capstone\BMI\obj\Debug\netcoreapp3.1\BMI.genruntimeconfig.cache
